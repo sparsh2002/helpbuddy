@@ -1,0 +1,41 @@
+#sparsh-h1 {
+  color: blue;
+}
+
+.fancy-border {
+  border: 3px dashed red;
+}
+
+.blue-text {
+  color: blue;
+}
+
+#myId {
+  background-color: yellow;
+}
+
+ul > li {
+  background-color: yellowgreen;
+}
+
+[href] {
+  background-color: red;
+}
+
+input:checked {
+  box-shadow: 2px 2px 2px red;
+  background-color: yellow;
+}
+
+input:focus {
+  box-shadow: 2px 2px 2px red;
+  background-color: yellow;
+}
+
+h2:hover {
+  background-color: yellow;
+}
+
+ul > li:last-child {
+  background-color: yellow;
+}
