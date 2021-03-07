@@ -17,7 +17,7 @@ while(psswd!=password  && !error){
 if (error){
     alert("Too many entries");
 }else{
-    document.write('<a href="/content">Click Here To Visit</a>');
+    document.write('<a href="/contentres">Click Here To Visit</a>');
 }
 
 
